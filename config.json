@@ -1,0 +1,6 @@
+{
+    "name": "cvmdp-example", 
+    "wstoken": "01234012340123401234",
+    "url": "https://cvmdp.ucm.es/moodle/webservice/rest/server.php",
+    "comment": "Never, ever, share your wstoken credentials"
+}
